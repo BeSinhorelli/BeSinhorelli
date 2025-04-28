@@ -6,6 +6,7 @@
 - 🚀 Apaixonado por desenvolvimento de software e tecnologia
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
 - ✏️ Sempre buscando aprender e evoluir em tecnologia e em habilidades interpessoais
+- 🗣️ Inglês intermediário 
 
 ## 🛠️ Linguagens que utilizo:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
