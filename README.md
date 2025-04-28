@@ -16,7 +16,7 @@
 - 💻 Curso Técnico em Informática - **Escola Técnica Mesquita** (2023/2024)
 - 📓 Ensino Médio - **Colégio Luterano da Paz** (2022/2024)
 - 🎓 Ciência da Computação - **UniRitter** (Cursando 2025/)
-- 🗣️ Inglês - **Senac Idiomas** (Cursando 2024/)
+- 🗣️ Curso de Inglês - **Senac Idiomas** (Cursando 2024/)
 
 ---
 
