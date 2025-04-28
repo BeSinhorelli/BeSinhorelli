@@ -7,15 +7,16 @@
 ## 👨‍💻 Sobre mim
 - 🚀 Apaixonado por desenvolvimento de software e tecnologia
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
-- ✏️ Sempre buscando aprender e evoluir em tecnologia e habilidades interpessoais
+- ✏️ Sempre estudando por conta para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário
 
 ---
 
 ## 🎓 Formação Acadêmica
-- 💻 Técnico em Informática - **Escola Técnica Mesquita** (Concluído em 2024)
-- 🎓 Ciência da Computação - **UniRitter** (Cursando)
-- 🗣️ Inglês - **Senac Idiomas** (Cursando)
+- 💻 Técnico em Informática - **Escola Técnica Mesquita** (2023/2024)
+- 📓 Ensino Médio - **Colégio Luterano da Paz** (2022/2024)
+- 🎓 Ciência da Computação - **UniRitter** (Cursando 2025/)
+- 🗣️ Inglês - **Senac Idiomas** (Cursando 2024/)
 
 ---
 
