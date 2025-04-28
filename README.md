@@ -24,17 +24,20 @@
 - Desenvolvimento em **Java** com interfaces gráficas
 - Banco de dados **MySQL**
 - Programação em **C**
+- Linux **(Ubuntu)**
 - Desenvolvimento web com **HTML5**, **CSS3** e **JavaScript**
 - Uso de **Git** e **GitHub** para versionamento de código
 
 ---
 
 ## 🤝 Soft Skills
-- Trabalho em equipe
-- Boa comunicação
-- Resolução de problemas
-- Organização e disciplina
+- Proativo
+- Pontual
+- Organizado
+- Paciente
 - Empatia
+- Comunicativo
+- Atencioso
 
 ---
 
