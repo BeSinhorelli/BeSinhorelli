@@ -7,7 +7,7 @@
 ## 👨‍💻 Sobre mim
 - 🚀 Apaixonado por desenvolvimento de software e tecnologia
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
-- ✏️ Sempre estudando por conta para evoluir em tecnologia e habilidades interpessoais
+- ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais.
 - 🗣️ Inglês intermediário
 
 ---
@@ -31,13 +31,8 @@
 ---
 
 ## 🤝 Soft Skills
-- Proativo
-- Pontual
-- Organizado
-- Paciente
-- Empatia
-- Comunicativo
-- Atencioso
+- ✅ Proativo | ✅ Pontual | ✅ Organizado | ✅ Paciente | ✅ Empático | ✅ Comunicativo | ✅ Atencioso
+
 
 ---
 
