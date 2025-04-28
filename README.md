@@ -37,7 +37,7 @@
 
 ---
 
-## 🚀 Linguagens e Ferramentas
+## 🚀 Linguagens
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -49,7 +49,7 @@
 
 ---
 
-## 📈 Status GitHub
+## 📈 Status
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosinhorelli348&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
