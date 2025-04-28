@@ -7,16 +7,16 @@
 ## 👨‍💻 Sobre mim
 - 🚀 Apaixonado por desenvolvimento de software e tecnologia
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
-- ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais.
+- ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário
 
 ---
 
 ## 🎓 Formação Acadêmica
-- 💻 Curso Técnico em Informática - **Escola Técnica Mesquita** (2023/2024)
-- 📓 Ensino Médio - **Colégio Luterano da Paz** (2022/2024)
-- 🎓 Ciência da Computação - **Uniritter** (Cursando 2025/)
-- 🗣️ Curso de Inglês - **Senac Idiomas** (Cursando 2024/)
+- 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** (2023/2024)
+- 📓 Ensino Médio — **Colégio Luterano da Paz** (2022/2024)
+- 🎓 Ciência da Computação — **Uniritter** (Cursando 2025/)
+- 🗣️ Curso de Inglês — **Senac Idiomas** (Cursando 2024/)
 
 ---
 
@@ -32,7 +32,6 @@
 
 ## 🤝 Soft Skills
 - ✅ Proativo | ✅ Pontual | ✅ Organizado | ✅ Paciente | ✅ Empático | ✅ Comunicativo | ✅ Atencioso
-
 
 ---
 
@@ -54,6 +53,15 @@
 </div>
 
 ---
+
+## 🏆 Conquistas
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge"/>
+  <p><strong>Pull Shark</strong> — Selo por contribuições de pull requests aceitas do projeto FlappyBird do meu curso técnico</p>
+</div>
+
+---
+
 ## 🌐 Contato
 <div align="center">
   <a href="https://www.linkedin.com/in/bernardosinhorelli/" target="_blank">
