@@ -1,5 +1,6 @@
 <h1 align="center">Olá, me chamo Bernardo! 👋</h1>
 
+Tenho 18 anos e gosto bastante de tecnologia e programação.
 ---
 
 ## 👨‍💻 Sobre mim
