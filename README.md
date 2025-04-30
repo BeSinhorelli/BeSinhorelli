@@ -21,7 +21,7 @@
 ---
 
 ## 🛠️ Hard Skills
-- Desenvolvimento em **Java** com interfaces gráficas
+- Desenvolvimento de interfaces gráficas em **Java**
 - Banco de dados **MySQL**
 - Programação em **C**
 - Linux **(Ubuntu)**
