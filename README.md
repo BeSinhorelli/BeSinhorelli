@@ -1,11 +1,11 @@
 <h1 align="center">Olá, me chamo Bernardo! 👋</h1>
 
-<p>Tenho 18 anos e gosto bastante de tecnologia e programação.</p>
+<p>Tenho 18 anos e sou um estudante de Ciência da Computação. Gosto muito de tecnologia, tenho foco em desenvolvimento de software e evolução constante como programador</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
-- 🚀 Apaixonado por desenvolvimento de software e tecnologia
+- 🚀 Gosto muito de desenvolvimento de software e tecnologia
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário
@@ -57,7 +57,7 @@
 ## 🏆 Conquistas
 <div align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge"/>
-  <p><strong>Pull Shark</strong> — Selo por contribuições de pull requests aceitas do projeto FlappyBird do meu curso técnico</p>
+  <p><strong>Pull Shark</strong> — Selo por contribuições de pull requests aceitas<br>✅Projeto Flappy Bird com Flutter: organizei pastas e contribuições via GitHub no projeto do curso técnico.</p>
 </div>
 
 ---
