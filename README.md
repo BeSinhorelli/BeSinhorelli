@@ -57,7 +57,7 @@
 ## 🏆 Conquistas
 <div align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120" alt="Pull Shark Badge"/>
-  <p><strong>Pull Shark</strong> — Selo por contribuições de pull requests aceitas<br>✅Projeto Flappy Bird com Flutter: organizei pastas e contribuições via GitHub no projeto do curso técnico.</p>
+  <p><strong>Pull Shark</strong> — Selo por pull requests aceitas<br>✅Projeto Flappy Bird em Flutter e Dart: contribuí com organização de pastas e versionamento no GitHub durante o curso técnico.</p>
 </div>
 
 ---
