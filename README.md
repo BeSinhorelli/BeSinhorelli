@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 Sobre mim
-- 🚀 Gosto muito de desenvolvimento de software e tecnologia
+- 🚀 Curto muito desenvolvimento de software e tecnologia
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário
