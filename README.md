@@ -45,12 +45,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
----
-
-## 📈 Status
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardosinhorelli348&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
