@@ -24,7 +24,7 @@
 - Desenvolvimento de interfaces gráficas em **Java**
 - Banco de dados **MySQL**
 - Programação em **C**
-- Linux **(Ubuntu)**
+- Linux **(Red Hat)**
 - Desenvolvimento web com **HTML5**, **CSS3** e **JavaScript**
 - Uso de **Git** e **GitHub** para versionamento de código
 
