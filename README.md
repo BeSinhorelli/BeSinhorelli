@@ -19,6 +19,10 @@
 - 🗣️ Curso de Inglês — **Senac Idiomas** (Cursando 2024/)
 
 ---
+## 🗒️ Cursos
+- 🐧 Red Hat System Administration I — **Red Hat Enterprise Linux**
+
+---
 
 ## 🛠️ Hard Skills
 - Desenvolvimento de interfaces gráficas em **Java**
