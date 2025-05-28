@@ -1,11 +1,11 @@
 <h1 align="center">Olá, me chamo Bernardo! 👋</h1>
 
-<p>Tenho 18 anos e sou um estudante de Ciência da Computação. Gosto muito de tecnologia, tenho foco em desenvolvimento de software e evolução constante como programador e pessoa</p>
+<p>Tenho 18 anos e sou um estudante de Ciência da Computação. Tenho foco em desenvolvimento de software e evolução constante como programador e pessoa</p>
 
 ---
 
 ## 👨‍💻 Sobre mim
-- 🚀 Curto muito desenvolvimento de software e tecnologia
+- 🚀 Curto bastante desenvolvimento de software
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário
