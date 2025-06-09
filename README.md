@@ -32,7 +32,7 @@
 - Banco de dados **MySQL**
 - Programação em **C**
 - Linux **Red Hat**
-- Desenvolvimento web com **HTML5**, **CSS3** e **JavaScript**
+- Desenvolvimento web com **HTML**, **CSS** e **JavaScript**
 - Uso de **Git** e **GitHub** para versionamento de código
 
 ---
