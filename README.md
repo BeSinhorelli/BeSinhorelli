@@ -22,6 +22,7 @@
 ---
 ## 🗒️ Cursos
 - 🐧 Red Hat System Administration I — **Red Hat Enterprise Linux**
+- 🐧 Red Hat System Administration II — **Red Hat Enterprise Linux**
 
 ---
 
