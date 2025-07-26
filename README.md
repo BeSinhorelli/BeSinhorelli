@@ -14,7 +14,7 @@
 ---
 
 ## 🎓 Formação Acadêmica
-- 🎓 Faculdade de Análise e Desenvolvimento de Sistemas — **PUCRS** - Cursando (2025 – 2027)
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** - Cursando (2025 – 2027)
 - 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** - Concluído (2023-2024)
 - 🗣️ Curso de Inglês — **Senac Idiomas** - Cursando (2025 – 2027)
 
