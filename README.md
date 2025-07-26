@@ -14,10 +14,9 @@
 ---
 
 ## 🎓 Formação Acadêmica
-- 🎓 Ánalise e desenvolvimento de sistemas — **PUCRS** (Cursando 2025/) 
-- 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** (2023/2024)
-- 🗣️ Curso de Inglês — **Senac Idiomas** (Cursando 2024/)
-- 📓 Ensino Médio — **Colégio Luterano da Paz** (2022/2024)
+- 🎓 Ánalise e desenvolvimento de sistemas — **PUCRS** - Cursando (2025 – 2027)
+- 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** - Concluído (2023/2024)
+- 🗣️ Curso de Inglês — **Senac Idiomas** - Cursando (2025 – 2027)
 
 ---
 ## 🗒️ Cursos
