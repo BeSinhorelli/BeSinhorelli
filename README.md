@@ -1,6 +1,6 @@
 <h1 align="center">Olá, me chamo Bernardo! 👋</h1>
 
-<p>Tenho 18 anos e sou um estudante de Ciência da Computação. Tenho foco em desenvolvimento de software e evolução constante como programador e pessoa</p>
+<p>Tenho 18 anos e sou um estudante de Análise e Desenvolvimento de Sistemas. Tenho foco em desenvolvimento de software, evolução constante como programador e pessoa</p>
 
 ---
 
