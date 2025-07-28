@@ -26,7 +26,7 @@
 ---
 
 ## 🛠️ Hard Skills
-- Desenvolvimento de interfaces gráficas em **Java**
+- Desenvolvimento de interfaces gráficas e programação em **Java**
 - Desenvolvimento de APIs REST com **Spring Boot**
 - Requisições HTTP com **Postman**
 - Banco de dados **MySQL**
