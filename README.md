@@ -9,7 +9,7 @@
 - 🚀 Curto bastante desenvolvimento de software
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
-- 🗣️ Inglês intermediário e sempre buscando evoluir meu nível no idioma por conta própria
+- 🗣️ Inglês intermediário, com estudos por conta própria além do curso que estou realizando
 - 🍃 Atualmente, estou focado no estudo de Java Spring Boot e no desenvolvimento de APIs REST, realizando testes de requisições HTTP utilizando o Postman.
 
 ---
