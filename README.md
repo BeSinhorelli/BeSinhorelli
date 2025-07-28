@@ -27,9 +27,9 @@
 
 ## 🛠️ Hard Skills
 - Desenvolvimento de interfaces gráficas e programação em **Java**
-- Desenvolvimento de APIs REST com **Spring Boot** usando requisições HTTP com **Postman**
+- Desenvolvimento de APIs REST com **Spring Boot**, utilizando o **Postman** para testes de requisições HTTP
 - Banco de dados **MySQL**
-- Programação em **C**
+- Programação em **Linguagem C**
 - Linux **Red Hat**
 - Desenvolvimento web com **HTML**, **CSS** e **JavaScript**
 - Uso de **Git** e **GitHub** para versionamento de código
