@@ -41,35 +41,41 @@
 - ✅ Proativo | ✅ Pontual | ✅ Organizado | ✅ Paciente | ✅ Empático | ✅ Comunicativo | ✅ Atencioso
 
 ---
-
 ## 🚀 Linguagens
-<div style="display: flex; gap: 10px; flex-wrap: wrap; background-color: #111827; padding: 15px; border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32">
-</div>
 
+<div style="display: flex; gap: 10px; flex-wrap: wrap; background-color: #111827; padding: 15px; border-radius: 12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64" height="64">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64">
+<img src="https://cdn.simpleicons.org/redhat/EE0000" alt="Red Hat" width="64" height="64">
+
+</div>
 
 
 
 ---
 
 ## 🌐 Contato
-<div align="center">
-  <a href="https://www.linkedin.com/in/bernardosinhorelli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; background-color: #111827; padding: 15px; border-radius: 12px; justify-content: center;">
+
+  <a href="https://www.linkedin.com/in/bernardosinhorelli/" target="_blank" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="64" height="64">
   </a>
-  <a href="https://www.instagram.com/bernardo_2840/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+
+  <a href="https://www.instagram.com/bernardo_2840/" target="_blank" title="Instagram">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="64" height="64">
   </a>
-  <a href="https://replit.com/@Bezin348" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
+
+  <a href="https://replit.com/@Bezin348" target="_blank" title="Replit">
+    <img src="https://cdn.simpleicons.org/replit/667881" alt="Replit" width="64" height="64">
   </a>
-  <a href="https://discord.com/users/543664865886339083" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+
+  <a href="https://discord.com/users/543664865886339083" target="_blank" title="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="64" height="64">
   </a>
+
 </div>
