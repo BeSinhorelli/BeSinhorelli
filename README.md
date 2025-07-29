@@ -68,9 +68,10 @@
 ---
 
 <h1 align="center">
-  English version:🇬🇧 <br><br>
+  English version: <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK Flag" width="30" height="30"><br><br>
   Hi, my name is Bernardo! 👋
 </h1>
+
 
 <p>I'm 18 years old and currently studying Analysis and Systems Development at PUCRS. I'm passionate about software development and constantly evolving as both a programmer and a person.</p>
 
