@@ -68,7 +68,7 @@
 ---
 
 <h1 align="center">
-  English version: <br><br>
+  English version:🇬🇧 <br><br>
   Hi, my name is Bernardo! 👋
 </h1>
 
