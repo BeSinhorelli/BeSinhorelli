@@ -73,7 +73,7 @@
 </h1>
 
 
-<p>I'm 18 years old and currently studying Analysis and Systems Development at PUCRS. I'm passionate about software development and constantly evolving as both a programmer and a person.</p>
+<p>I'm 18 years old and I'm a Analysis and Systems Development student at PUCRS. I'm passionate about software development and constantly evolving as both a programmer and a person.</p>
 
 ---
 
