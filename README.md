@@ -15,7 +15,7 @@
 ---
 
 ## 🎓 Formação Acadêmica
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
+- 🎓 Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
 - 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
 - 🗣️ Curso de Inglês — **Senac Idiomas** — Cursando (2024 – 2027)
 
@@ -87,7 +87,7 @@
 ---
 
 ## 🎓 Academic Background
-- 🎓 Graduation in Analysis and Systems Development — **PUCRS** — In progress (2025–2027)  
+- 🎓 Technologist Degree in Systems Analysis and Development — **PUCRS** — In progress (2025–2027)  
 - 💻 Technical Degree in IT — **Escola Técnica Mesquita** — Completed (2023–2024)  
 - 🗣️ English Course — **Senac Idiomas** — In progress (2024–2027)  
 
