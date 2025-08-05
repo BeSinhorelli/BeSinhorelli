@@ -20,7 +20,7 @@
 - 🗣️ Curso de Inglês — **Senac Idiomas** — Cursando (2024 – 2027)
 
 ---
-## 🗒️ Cursos
+## 🗒️ Certificações
 - 🐧 Red Hat System Administration I and II — **Red Hat Enterprise Linux**
 
 ---
