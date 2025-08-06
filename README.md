@@ -9,7 +9,7 @@
 - 🚀 Curto bastante desenvolvimento de software
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
-- 🗣️ Inglês intermediário, com estudos por conta própria além do curso que estou realizando
+- 🗣️ Inglês intermediário, com estudos por conta própria e evolução constante
 - 🍃 Atualmente, estou focado no estudo de Java Spring Boot e no desenvolvimento de APIs REST, realizando testes de requisições HTTP utilizando o Postman.
 
 ---
@@ -81,16 +81,14 @@
 - 🚀 I really enjoy software development  
 - 🎯 Looking for opportunities to grow as a developer  
 - ✏️ Self-taught, always studying independently to improve my technical and interpersonal skills  
-- 🗣️ Intermediate English speaker, studying both independently and through a language course  
+- 🗣️ Intermediate English, studying both independently and always evolving.  
 - 🍃 Currently focused on learning Java with Spring Boot and building REST APIs, testing HTTP requests using Postman  
 
 ---
 
 ## 🎓 Academic Background
 - 🎓 Technologist Degree in Systems Analysis and Development — **PUCRS** — In progress (2025–2027)  
-- 💻 Technical Degree in IT — **Escola Técnica Mesquita** — Completed (2023–2024)  
-- 🗣️ English Course — **Senac Idiomas** — In progress (2024–2027)  
-
+- 💻 Technical Degree in IT — **Escola Técnica Mesquita** — Completed (2023–2024)
 ---
 
 ## 🗒️ Certifications
