@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Sobre mim
 - 🚀 Curto bastante desenvolvimento de software
-- 🎯 Em busca de oportunidades para crescer como desenvolvedor
+- 🎯 Em busca de oportunidades para crescer como desenvolvedor full stack
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário avançado(B2), estudando por conta própria e sempre em evolução constante
 - 🍃 Atualmente, estou focado no estudo de Java Spring Boot e no desenvolvimento de APIs REST, realizando testes de requisições HTTP utilizando o Postman.
@@ -15,7 +15,7 @@
 ---
 
 ## 🎓 Formação Acadêmica
-- 🎓 Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
+- 🎓 Graduação Tecnólogo em Análise e Desenvolvimento de Sistema —s **PUCRS** — Cursando (2025 – 2027)
 - 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
 ---
 ## 🗒️ Certificações
@@ -77,7 +77,7 @@
 
 ## 👨‍💻 About Me
 - 🚀 I really enjoy software development  
-- 🎯 Looking for opportunities to grow as a developer  
+- 🎯 Looking for opportunities to grow as a full stack developer  
 - ✏️ Self-taught, always studying independently to improve my technical and interpersonal skills  
 - 🗣️ Upper intermediate English (B2), studying by myself and always evolving.  
 - 🍃 Currently focused on learning Java with Spring Boot and building REST APIs, testing HTTP requests using Postman  
