@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá, me chamo Bernardo! 👋</h1>
 
 <p>Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUCRS. Tenho foco em desenvolvimento de software e busco constante evolução como programador e pessoa</p>
@@ -15,7 +14,7 @@
 ---
 
 ## 🎓 Formação Acadêmica
-- 🎓 Graduação Tecnólogo em Análise e Desenvolvimento de Sistema —s **PUCRS** — Cursando (2025 – 2027)
+- 🎓 Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
 - 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
 ---
 ## 🗒️ Certificações
@@ -33,14 +32,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="64" height="64">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
   <img src="https://cdn.simpleicons.org/redhat/EE0000" alt="Red Hat" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64">
 </div>
-
-
-
 
 ---
 
@@ -69,7 +66,6 @@
   English version: <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK Flag" width="30" height="30"><br><br>
   Hi, my name is Bernardo! 👋
 </h1>
-
 
 <p>I'm 18 years old and I'm a Analysis and Systems Development student at PUCRS. I'm passionate about software development and constantly evolving as both a programmer and a person.</p>
 
@@ -106,6 +102,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="64" height="64">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
   <img src="https://cdn.simpleicons.org/redhat/EE0000" alt="Red Hat" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64" height="64">
@@ -134,5 +131,3 @@
   </a>
 
 </div>
-
-
