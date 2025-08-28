@@ -26,16 +26,7 @@
 
 ---
 ## 🚀 Hard Skills
-<div style="display: flex; gap: 10px; flex-wrap: wrap; background-color: #111827; padding: 15px; border-radius: 12px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="64" height="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="64" height="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="64" height="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="64" height="64">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64">
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" alt="Red Hat" width="64" height="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="64" height="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="64" height="64">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64">
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,python,c,redhat,html,css,js)](https://skillicons.dev)
 </div>
 
 ---
