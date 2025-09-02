@@ -26,8 +26,7 @@
 
 ---
 ## 🚀 Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,python,c,redhat,html,css,js)](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postman,python,c,git,html,css,js,redhat)](https://skillicons.dev)
 
 ---
 
