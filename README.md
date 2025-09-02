@@ -11,7 +11,11 @@
 - 🗣️ Inglês intermediário avançado(B2), estudando por conta própria e sempre em evolução constante
 
 ---
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besinhorelli&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
+---
 ## 🎓 Formação Acadêmica
 - 🎓 Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
 - 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
@@ -46,7 +50,11 @@
 - 🗣️ Upper intermediate English (B2), studying by myself and always evolving.  
 
 ---
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besinhorelli&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
+---
 ## 🎓 Academic Background
 - 🎓 Technologist Degree in Systems Analysis and Development — **PUCRS** — In progress (2025–2027)  
 - 💻 Technical Degree in IT — **Escola Técnica Mesquita** — Completed (2023–2024)
