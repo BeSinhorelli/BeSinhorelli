@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 - 🚀 Curto bastante desenvolvimento de software
-- 🎯 Em busca de oportunidades para crescer como desenvolvedor full stack
+- 🎯 Em busca de oportunidades para crescer como desenvolvedor
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário avançado(B2), estudando por conta própria e sempre em evolução constante
 
@@ -46,7 +46,7 @@
 
 ## 👨‍💻 About Me
 - 🚀 I really enjoy software development  
-- 🎯 Looking for opportunities to grow as a full stack developer  
+- 🎯 Looking for opportunities to grow as a developer  
 - ✏️ Self-taught, always studying independently to improve my technical and interpersonal skills  
 - 🗣️ Upper intermediate English (B2), studying by myself and always evolving.  
 
