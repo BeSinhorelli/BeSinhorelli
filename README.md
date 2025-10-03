@@ -21,7 +21,7 @@
 - 🎓 Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
 - 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
 ---
-## 🗒️ Certificações
+## 🗒️ Principais Certificações
 - 🐧 Red Hat System Administration I and II — **Red Hat Enterprise Linux**
 
 ---
@@ -56,7 +56,7 @@
 - 💻 Technical Degree in IT — **Escola Técnica Mesquita** — Completed (2023–2024)
 ---
 
-## 🗒️ Certifications
+## 🗒️ Main Certifications
 - 🐧 Red Hat System Administration I and II — **Red Hat Enterprise Linux**
 
 ---
