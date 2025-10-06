@@ -16,7 +16,7 @@
 ## 🚀 Hard Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c,flutter,dart,python,html,css,js)](https://skillicons.dev) 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besinhorelli&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ---
