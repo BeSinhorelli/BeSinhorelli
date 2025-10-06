@@ -2,8 +2,6 @@
 
 <p>Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUCRS. Tenho foco em desenvolvimento de software e busco constante evolução como programador e pessoa</p>
 
----
-
 ## 👨‍💻 Sobre mim
 - 🚀 Curto bastante desenvolvimento de software
 - 🎯 Em busca de oportunidades para crescer como desenvolvedor
@@ -11,16 +9,15 @@
 - 🗣️ Inglês intermediário avançado(B2), estudando por conta própria e sempre em evolução constante
 
 ---
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besinhorelli&layout=compact&langs_count=10&theme=dark"/>
-</div>
-
----
 ## 🎓 Formação Acadêmica
 - Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
 - Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
 ---
 ## 🚀 Hard Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c,flutter,dart,python,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c,flutter,dart,python,html,css,js)](https://skillicons.dev) 
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=besinhorelli&layout=compact&langs_count=10&theme=dark"/>
+</div>
 
 ---
+
