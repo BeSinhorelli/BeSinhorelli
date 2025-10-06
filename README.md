@@ -17,17 +17,8 @@
 
 ---
 ## 🎓 Formação Acadêmica
-- 🎓 Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
-- 💻 Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
----
-## 🗒️ Principais Certificações
-- 🐧 Red Hat System Administration I and II — **Red Hat Enterprise Linux**
-
----
-
-## 🤝 Soft Skills
-- ✅ Proativo | ✅ Pontual | ✅ Organizado | ✅ Paciente | ✅ Empático | ✅ Comunicativo | ✅ Atencioso
-
+- Graduação Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
+- Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
 ---
 ## 🚀 Hard Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,c,flutter,dart,python,html,css,js)](https://skillicons.dev)
