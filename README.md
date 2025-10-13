@@ -8,7 +8,7 @@
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário avançado(B2), estudando por conta própria e sempre em evolução constante
 ---
-## 🎓 Formação Acadêmica
+## 🎓 Formações
 - Tecnólogo em Análise e Desenvolvimento de Sistemas — **PUCRS** — Cursando (2025 – 2027)
 - Curso Técnico em Informática — **Escola Técnica Mesquita** — Concluído (2023-2024)
 ---
