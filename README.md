@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mim
 - 🚀 Curto bastante desenvolvimento de software
-- 🎯 Em busca de oportunidades para crescer como desenvolvedor
+- 🎯 Em busca de oportunidades de estágio para crescer como desenvolvedor
 - ✏️ Autodidata, sempre estudando por conta própria para evoluir em tecnologia e habilidades interpessoais
 - 🗣️ Inglês intermediário avançado(B2), estudando por conta própria e sempre em evolução constante
 ---
