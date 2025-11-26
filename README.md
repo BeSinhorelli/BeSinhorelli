@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,flutter,c,html,css,js)](https://skillicons.dev) 
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
 ---
