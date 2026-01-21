@@ -1,6 +1,9 @@
 <h1 align="center">Olá, me chamo Bernardo! 👋</h1>
 
-<p>Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUCRS. Tenho foco em desenvolvimento de software e busco constante evolução como programador e pessoa</p>
+<p align="center"><em>Estudante de Análise e Desenvolvimento de Sistemas | PUCRS</em></p>
+
+---
+<p>Tenho 19 anos, sou focado em desenvolvimento de software e buscando constantemente evoluir como programador/pessoa.</p>
 
 ## 👨‍💻 Sobre mim
 - 🚀 Curto bastante desenvolvimento de software
