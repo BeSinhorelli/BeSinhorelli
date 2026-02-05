@@ -22,11 +22,9 @@ Tenho 19 anos e sou focado em desenvolvimento de software, buscando evoluir cons
 ---
 
 ## 🎓 Formação
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — PUCRS  
-  Cursando (2025 – 2027)
-- 💻 **Curso Técnico em Informática** — Escola Técnica Mesquita  
-  Concluído (2023 – 2024)
-
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — PUCRS — Cursando (2025 – 2027)
+- 💻 **Curso Técnico em Informática** — Escola Técnica Mesquita — Concluído (2023 – 2024)
+  
 ---
 
 ## 🚀 Hard Skills
