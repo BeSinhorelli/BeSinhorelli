@@ -32,7 +32,7 @@ Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na
 
 <div align="center">
 
-| **Backend** | **Banco de Dados** | **Mobile & Front-end** |
+| **Back-end** | **Banco de Dados** | **Mobile & Front-end** |
 |:---:|:---:|:---:|
 | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Flutter](https://skillicons.dev/icons?i=flutter) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 
