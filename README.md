@@ -13,7 +13,7 @@ Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na
 </p>
 
 ## 👨‍💻 Sobre mim
-- 🚀 Foco em desenvolvimento backend (Java & Spring)
+- 🚀 Foco em desenvolvimento backend (Java & Spring Boot)
 - 🎯 Em busca de oportunidade de estágio como desenvolvedor
 - 📚 Perfil autodidata
 - 🧠 Interesse por matemática, lógica e pensamento crítico
