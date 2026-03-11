@@ -17,7 +17,7 @@ Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na
 - 🎯 Em busca de oportunidade de estágio como desenvolvedor ou suporte técnico
 - 📚 Perfil autodidata
 - 🧠 Interesse por matemática, lógica e pensamento crítico
-- 🔍 Gosto de entender como as coisas funcionam em nível estrutural
+- 🔍 Gosto de entender como as coisas funcionam em nível sistemático
 - 🗣️ Inglês B2 (intermediário-avançado), em evolução contínua
 
 ---
