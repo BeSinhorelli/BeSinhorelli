@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Bernardo! 👋</h1>
 
 <p align="center">
-  <em>Software Developer in Progress | Análise e Desenvolvimento de Sistemas — PUCRS</em>
+  <em>Análise e Desenvolvimento de Sistemas — PUCRS</em>
 </p>
 
 ---
