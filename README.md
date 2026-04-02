@@ -37,3 +37,10 @@ Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na
 | ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![RedHat](https://skillicons.dev/icons?i=redhat) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Windows](https://skillicons.dev/icons?i=windows) | ![Flutter](https://skillicons.dev/icons?i=flutter) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 
 </div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api?username=BeSinhorelli&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&theme=github_dark_dimmed"/>
+</div>
