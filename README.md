@@ -34,7 +34,7 @@ Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na
 
 | **Back-end** | **Banco de Dados** | **Sistemas Operacionais** | **Mobile & Front-end** |
 |:---:|:---:|:---:|:---:|
-| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![C](https://skillicons.dev/icons?i=c) ![Python](https://skillicons.dev/icons?i=python) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![RedHat](https://skillicons.dev/icons?i=redhat) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Windows](https://skillicons.dev/icons?i=windows) ![Bash](https://skillicons.dev/icons?i=bash) | ![Flutter](https://skillicons.dev/icons?i=flutter) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c)  | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![RedHat](https://skillicons.dev/icons?i=redhat) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![Windows](https://skillicons.dev/icons?i=windows) ![Bash](https://skillicons.dev/icons?i=bash) | ![Flutter](https://skillicons.dev/icons?i=flutter) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 
 </div>
 
