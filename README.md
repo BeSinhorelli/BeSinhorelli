@@ -42,5 +42,5 @@ Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api?username=BeSinhorelli&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&theme=github_dark_dimmed"/>
+  <img height="180em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&theme=github_dark_dimmed&langs_count=9"/>
 </div>
