@@ -14,7 +14,7 @@ Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na
 
 ## 👨‍💻 Sobre mim
 - 🚀 Foco em desenvolvimento de software
-- 🎯 Em busca de oportunidade de estágio como desenvolvedor ou suporte técnico
+- 🎯 Em busca de oportunidade de estágio como desenvolvedor
 - 📚 Perfil autodidata
 - 🧠 Interesse por matemática, lógica e pensamento crítico
 - 🔍 Gosto de entender como as coisas funcionam em nível sistemático
