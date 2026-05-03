@@ -8,15 +8,16 @@
 
 <p>
 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUCRS. 
+Atualmente, atuo como estagiário de TI na PUCRS, no Laboratório de Alto Desempenho (LAD), com foco em automação de processos, suporte e melhoria de eficiência operacional.
+
 Sou focado em desenvolvimento de software e busco evolução constante, tanto técnica quanto pessoal. 
 Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na aplicação prática do conhecimento.
 </p>
 
 ## 👨‍💻 Sobre mim
 - 🚀 Foco em desenvolvimento de software
-- 🎯 Em busca de oportunidade de estágio como desenvolvedor
+- 💼 Estagiário de TI na PUCRS (LAD)
 - 📚 Perfil autodidata
-- 🧠 Interesse por matemática, lógica e pensamento crítico
 - 🔍 Gosto de entender como as coisas funcionam em nível sistemático
 - 🗣️ Inglês B2 (intermediário-avançado), em evolução contínua
 
