@@ -8,15 +8,13 @@
 
 <p>
 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na PUCRS. 
-Atualmente, atuo como estagiário de TI na PUCRS, no Laboratório de Alto Desempenho (LAD), com foco em automação de processos, suporte e melhoria de eficiência operacional.
-
 Sou focado em desenvolvimento de software e busco evolução constante, tanto técnica quanto pessoal. 
-Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na aplicação prática do conhecimento.
+<br>Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na aplicação prática do conhecimento.
 </p>
 
 ## 👨‍💻 Sobre mim
 - 🚀 Foco em desenvolvimento de software
-- 💼 Estagiário de TI na PUCRS (LAD)
+- 💼 Em busca de oportunidades de estágio
 - 📚 Perfil autodidata
 - 🔍 Gosto de entender como as coisas funcionam em nível sistemático
 - 🗣️ Inglês B2 (intermediário-avançado), em evolução contínua
@@ -28,14 +26,13 @@ Acredito no aprendizado contínuo, na compreensão profunda dos fundamentos e na
 - 💻 Técnico em Informática — Escola Técnica Mesquita (2023 – 2024)
 
 ---
-
 ## 🚀 Hard Skills
 
 <div align="center">
 
-| **Back-end** | **Front-end** | **Mobile** | **Banco de Dados** | **Sistemas Operacionais & Shell** |
+| **Back-end** | **Front-end & Mobile** | **Banco de Dados** | **Sistemas Operacionais & Shell** | **DevOps & Containers** |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) | ![Flutter](https://skillicons.dev/icons?i=flutter) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![RedHat](https://skillicons.dev/icons?i=redhat) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Bash](https://skillicons.dev/icons?i=bash) |
+| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Flutter](https://skillicons.dev/icons?i=flutter) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![RedHat](https://skillicons.dev/icons?i=redhat) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Bash](https://skillicons.dev/icons?i=bash) | ![Docker](https://skillicons.dev/icons?i=docker) |
 
 </div>
 
