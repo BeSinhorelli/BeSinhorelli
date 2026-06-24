@@ -30,9 +30,9 @@ Sou focado em desenvolvimento de software e busco evolução constante, tanto t�
 
 <div align="center">
 
-| **Back-end** | **Front-end & Mobile** | **Banco de Dados** | **Sistemas Operacionais & Shell** | **DevOps & Containers** |
+| **Back-end** | **Front-end & Mobile** | **Banco de Dados** | **SOs & Shell** | **DevOps** |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Flutter](https://skillicons.dev/icons?i=flutter) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![RedHat](https://skillicons.dev/icons?i=redhat) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![PowerShell](https://skillicons.dev/icons?i=powershell)| ![Docker](https://skillicons.dev/icons?i=docker) |
+| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Flutter](https://skillicons.dev/icons?i=flutter) | ![MySQL](https://skillicons.dev/icons?i=mysql) | ![RedHat](https://skillicons.dev/icons?i=redhat) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) ![PowerShell](https://skillicons.dev/icons?i=powershell) ![Bash](https://skillicons.dev/icons?i=bash) | ![Docker](https://skillicons.dev/icons?i=docker) |
 
 </div>
 
