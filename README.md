@@ -40,5 +40,5 @@ Sou focado em desenvolvimento de software e busco evolução constante, tanto t�
 
 <div align="center">
   <img height="220em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api?username=BeSinhorelli&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&theme=github_dark_dimmed&langs_count=12"/>
+  <img height="220em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&theme=github_dark_dimmed&langs_count=11"/>
 </div>
