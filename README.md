@@ -30,9 +30,9 @@ Sou focado em desenvolvimento de software e busco evolução constante, tanto t�
 
 <div align="center">
 
-| **Back-end** | **Front-end & Mobile** | **Database** | **Shell** | **DevOps** |
+| **Back-end** | **Front-end** | **Database** | **Mobile** | **DevOps** |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) <br> ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) <br> ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react)  ![Flutter](https://skillicons.dev/icons?i=flutter) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgeSQL](https://skillicons.dev/icons?i=postgresql) | ![Bash](https://skillicons.dev/icons?i=bash) ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![Docker](https://skillicons.dev/icons?i=docker)
+| ![Java](https://skillicons.dev/icons?i=java) ![Spring](https://skillicons.dev/icons?i=spring) <br> ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) <br> ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgeSQL](https://skillicons.dev/icons?i=postgresql) | ![Flutter](https://skillicons.dev/icons?i=flutter) | ![Docker](https://skillicons.dev/icons?i=docker)
 
 </div>
 
@@ -40,5 +40,5 @@ Sou focado em desenvolvimento de software e busco evolução constante, tanto t�
 
 <div align="center">
   <img height="220em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api?username=BeSinhorelli&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&theme=github_dark_dimmed&langs_count=11"/>
+  <img height="220em" src="https://github-readme-stats-agsjohns-projects.vercel.app/api/top-langs/?username=BeSinhorelli&layout=compact&theme=github_dark_dimmed&langs_count=8"/>
 </div>
